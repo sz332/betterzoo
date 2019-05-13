@@ -1,8 +1,8 @@
-# betterzoo
+# Better zOO
 
 How to use better OO design for the Zoo homework
 
-# Overview
+# Summary
 
 A guy posted a github repo link to a forum asking what we think about the OO design of his project. It was of course 
 terrible, but instead of trolling it I started to think about what we can learn from his implementation and maybe
@@ -10,7 +10,7 @@ there is a way showing him how to do it a better way, or even a correct way.
 
 # The story
 
-As a Zookeeper your task is to hold different spieces in your Zoo. In the first step you only care about animals.
+As a Zookeeper your task is to collect information about different animals living in your Zoo.
 
 Animals can be birds, fishes, or mammals. 
 
@@ -36,7 +36,7 @@ We have in our Zoo the following type of mammals:
   * Hyppopotamus 
   * Rhinoceros 
 
-# The story
+# The task
   
 As a Zookeeper you need to have an up to date list about your animals in your Zoo, so that you can answer the following questions:
 
@@ -48,5 +48,6 @@ As a Zookeeper you need to have an up to date list about your animals in your Zo
 # Requirements
 
   * Have a nice OO design
+  * Use SOLID principles
   * Store the data in a database (in memory database is perfect) and access it through JDBC
   
