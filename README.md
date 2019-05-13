@@ -53,4 +53,7 @@ As a Zookeeper you need to have an up to date list about your animals in your Zo
   * Use unit tests to check whether your code is good
   * +1 store data in database (a simple in-memory database is more than sufficient)
   
-# Requirements
+# How to play
+
+  * Fork the repo and make your own solution
+  * If you have any idea how we can improve the game, create a new issue
