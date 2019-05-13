@@ -4,9 +4,7 @@ How to use better OO design for the Zoo homework
 
 # Summary
 
-A guy posted a github repo link to a forum asking what we think about the OO design of his project. It was of course 
-terrible, but instead of trolling it I started to think about what we can learn from his implementation and maybe
-there is a way showing him how to do it a better way, or even a correct way. 
+Some universities teach OO design based on the zoo exercise: create an object oriented design of a Zoo which contains various animals (or even plants). Although the task is simple, the implementations often lacks even the very basic OO principles (like encapsulation, single responsiblity, etc.). I think we can do it better. 
 
 # The story
 
@@ -51,5 +49,8 @@ As a Zookeeper you need to have an up to date list about your animals in your Zo
 
   * Have a nice OO design
   * Use SOLID principles
-  * Store the data in a database (in memory database is perfect) and access it through JDBC
+  * Use immutable classes, if possible
+  * Use unit tests to check whether your code is good
+  * +1 store data in database (a simple in-memory database is more than sufficient)
   
+# Requirements
