@@ -20,21 +20,23 @@ An animal can have certain number of legs, teeths, and an average weight, and a 
  * A fish is like an animal, but it can go down certain deep in the sea it lives. 
  * A mammal is like an animal, but it has a certain hair size.
 
-We have in our Zoo the following type of birds:
+We have following kind of birds:
   
-  * Ostrich
-  * Penguin
+  * Ostrich (Struthio camelus, avg_weight = 150, wing_length = 200, legs=2, number_of_teeth=0 )
+  * Penguin (Aptenodytes patagonicus, avg_weigth = 20, wing_length=50, legs=2, number_of_teeth=0 )
   
-We have in our Zoo the following type of fishes:
+We have following type of fishes:
 
-  * Barracuda
-  * White shark
+  * Barracuda (Sphyraena barracuda, avg_weight = 44, number_of_teeth=24, max_depth=100, legs=0)
+  * White shark (Carcharodon carcharias, avg_weight = 2000, number_of_teeth=5*48, max_depth=900, legs=0)
   
-We have in our Zoo the following type of mammals:
+We have following type of mammals:
 
-  * AfricanBuffalo  
-  * Hyppopotamus 
-  * Rhinoceros 
+  * AfricanBuffalo (Syncerus caffer, avg_weight = 600, number_of_teeth=46, hair_length=5, legs=4)
+  * Elephant (Loxodonta africana, avg_weight = 5000, number_of_teeth=26, hair_length=8, legs=4)
+  * Hyppopotamus (Hippopotamus amphibius, avg_weight = 1700, number_of_teeth=32, hair_length=0, legs=4)
+  * Rhinoceros (Rhinocerotidae, avg_weight = 2500, number_of_teeth=28, hair_length=3, legs=4)
+  
 
 # The task
   
