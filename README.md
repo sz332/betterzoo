@@ -32,7 +32,7 @@ We have following type of fishes:
   
 We have following type of mammals:
 
-  * AfricanBuffalo (Syncerus caffer, avg_weight = 600, number_of_teeth=46, hair_length=5, legs=4)
+  * African Buffalo (Syncerus caffer, avg_weight = 600, number_of_teeth=46, hair_length=5, legs=4)
   * Elephant (Loxodonta africana, avg_weight = 5000, number_of_teeth=26, hair_length=8, legs=4)
   * Hyppopotamus (Hippopotamus amphibius, avg_weight = 1700, number_of_teeth=32, hair_length=0, legs=4)
   * Rhinoceros (Rhinocerotidae, avg_weight = 2500, number_of_teeth=28, hair_length=3, legs=4)
